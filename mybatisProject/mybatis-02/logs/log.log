@@ -1,0 +1,1268 @@
+2020-05-13 15:54:42  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:54:42  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:54:42  [ main:6 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:54:42  [ main:6 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:54:42  [ main:34 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:34 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:36 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:36 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:37 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:37 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:37 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:37 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:54:42  [ main:128 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 15:54:42  [ main:128 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 15:54:44  [ main:2282 ] - [ DEBUG ]  Created connection 736920911.
+2020-05-13 15:54:44  [ main:2282 ] - [ DEBUG ]  Created connection 736920911.
+2020-05-13 15:54:44  [ main:2283 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:54:44  [ main:2283 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:54:44  [ main:2287 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 15:54:44  [ main:2287 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 15:54:44  [ main:2323 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 15:54:44  [ main:2323 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 15:54:44  [ main:2350 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 15:54:44  [ main:2350 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 15:54:44  [ main:2362 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:54:44  [ main:2362 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:54:44  [ main:2363 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:54:44  [ main:2363 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:54:44  [ main:2364 ] - [ DEBUG ]  Returned connection 736920911 to pool.
+2020-05-13 15:54:44  [ main:2364 ] - [ DEBUG ]  Returned connection 736920911 to pool.
+2020-05-13 15:59:11  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:59:11  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:59:11  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:59:11  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 15:59:11  [ main:29 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:29 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:31 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:31 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:32 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:32 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 15:59:11  [ main:111 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 15:59:11  [ main:111 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 15:59:13  [ main:2267 ] - [ DEBUG ]  Created connection 736920911.
+2020-05-13 15:59:13  [ main:2267 ] - [ DEBUG ]  Created connection 736920911.
+2020-05-13 15:59:13  [ main:2268 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:59:13  [ main:2268 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:59:13  [ main:2275 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 15:59:13  [ main:2275 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 15:59:13  [ main:2319 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 15:59:13  [ main:2319 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 15:59:13  [ main:2351 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 15:59:13  [ main:2351 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 15:59:13  [ main:2363 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:59:13  [ main:2363 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:59:13  [ main:2365 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:59:13  [ main:2365 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bec854f]
+2020-05-13 15:59:13  [ main:2365 ] - [ DEBUG ]  Returned connection 736920911 to pool.
+2020-05-13 15:59:13  [ main:2365 ] - [ DEBUG ]  Returned connection 736920911 to pool.
+2020-05-13 16:01:42  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:01:42  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:01:42  [ main:43 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:01:42  [ main:44 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:01:42  [ main:45 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:01:42  [ main:46 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:01:42  [ main:147 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:01:49  [ main:7567 ] - [ DEBUG ]  Created connection 1052317717.
+2020-05-13 16:01:49  [ main:7568 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb91815]
+2020-05-13 16:01:49  [ main:7574 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 16:01:49  [ main:7623 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 16:01:49  [ main:7652 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 16:01:49  [ main:7663 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb91815]
+2020-05-13 16:01:49  [ main:7664 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb91815]
+2020-05-13 16:01:49  [ main:7665 ] - [ DEBUG ]  Returned connection 1052317717 to pool.
+2020-05-13 16:02:46  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:02:46  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:02:46  [ main:29 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:02:46  [ main:29 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:02:46  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:02:46  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:02:46  [ main:119 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:02:49  [ main:2385 ] - [ DEBUG ]  Created connection 38544126.
+2020-05-13 16:02:49  [ main:2386 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24c22fe]
+2020-05-13 16:02:49  [ main:2392 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 16:02:49  [ main:2438 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 16:02:49  [ main:2472 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 16:02:49  [ main:2488 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24c22fe]
+2020-05-13 16:02:49  [ main:2489 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24c22fe]
+2020-05-13 16:02:49  [ main:2490 ] - [ DEBUG ]  Returned connection 38544126 to pool.
+2020-05-13 16:03:17  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:03:17  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:03:17  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:03:17  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:03:17  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:29 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:29 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:30 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:03:17  [ main:113 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:03:17  [ main:113 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:03:20  [ main:2398 ] - [ DEBUG ]  Created connection 412111214.
+2020-05-13 16:03:20  [ main:2398 ] - [ DEBUG ]  Created connection 412111214.
+2020-05-13 16:03:20  [ main:2399 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1890516e]
+2020-05-13 16:03:20  [ main:2399 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1890516e]
+2020-05-13 16:03:20  [ main:2403 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 16:03:20  [ main:2403 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 16:03:20  [ main:2436 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 16:03:20  [ main:2436 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 16:03:20  [ main:2466 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 16:03:20  [ main:2466 ] - [ DEBUG ]  <==      Total: 3
+2020-05-13 16:03:20  [ main:2474 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1890516e]
+2020-05-13 16:03:20  [ main:2474 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1890516e]
+2020-05-13 16:03:20  [ main:2475 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1890516e]
+2020-05-13 16:03:20  [ main:2475 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1890516e]
+2020-05-13 16:03:20  [ main:2476 ] - [ DEBUG ]  Returned connection 412111214 to pool.
+2020-05-13 16:03:20  [ main:2476 ] - [ DEBUG ]  Returned connection 412111214 to pool.
+2020-05-13 16:46:27  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:46:27  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:46:27  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:46:27  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:46:27  [ main:32 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:32 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:33 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:33 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:33 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:33 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:34 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:34 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:46:27  [ main:121 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:46:27  [ main:121 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:46:34  [ main:6923 ] - [ DEBUG ]  Created connection 331122245.
+2020-05-13 16:46:34  [ main:6923 ] - [ DEBUG ]  Created connection 331122245.
+2020-05-13 16:46:34  [ main:6924 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:6924 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:6929 ] - [ DEBUG ]  ==>  Preparing: insert into mybatis.user (id,name ,pwd) values (?,?,?); 
+2020-05-13 16:46:34  [ main:6929 ] - [ DEBUG ]  ==>  Preparing: insert into mybatis.user (id,name ,pwd) values (?,?,?); 
+2020-05-13 16:46:34  [ main:6975 ] - [ DEBUG ]  ==> Parameters: 104(Integer), mike(String), sldhgl(String)
+2020-05-13 16:46:34  [ main:6975 ] - [ DEBUG ]  ==> Parameters: 104(Integer), mike(String), sldhgl(String)
+2020-05-13 16:46:34  [ main:6996 ] - [ DEBUG ]  <==    Updates: 1
+2020-05-13 16:46:34  [ main:6996 ] - [ DEBUG ]  <==    Updates: 1
+2020-05-13 16:46:34  [ main:6996 ] - [ DEBUG ]  Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:6996 ] - [ DEBUG ]  Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:7003 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:7003 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:7004 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:7004 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@13bc8645]
+2020-05-13 16:46:34  [ main:7005 ] - [ DEBUG ]  Returned connection 331122245 to pool.
+2020-05-13 16:46:34  [ main:7005 ] - [ DEBUG ]  Returned connection 331122245 to pool.
+2020-05-13 16:48:44  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:48:44  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:48:44  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:48:44  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:48:44  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 16:48:44  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 16:48:44  [ main:10 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 16:48:44  [ main:10 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 16:48:44  [ main:11 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 16:48:44  [ main:11 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 16:48:44  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 16:48:44  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 16:48:44  [ main:12 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 16:48:44  [ main:12 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 16:48:44  [ main:13 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:48:44  [ main:13 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:48:44  [ main:13 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:48:44  [ main:13 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:48:44  [ main:68 ] - [ DEBUG ]  Reader entry: UserMapperTest.class
+2020-05-13 16:48:44  [ main:68 ] - [ DEBUG ]  Reader entry: UserMapperTest.class
+2020-05-13 16:48:44  [ main:69 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:48:44  [ main:69 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:48:44  [ main:69 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:48:44  [ main:69 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:48:44  [ main:70 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:48:44  [ main:70 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:48:44  [ main:72 ] - [ DEBUG ]  Reader entry: ����   8 �
+2020-05-13 16:48:44  [ main:72 ] - [ DEBUG ]  Reader entry: ����   8 �
+2020-05-13 16:48:44  [ main:73 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:48:44  [ main:73 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:48:44  [ main:75 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:48:44  [ main:75 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:48:44  [ main:80 ] - [ DEBUG ]  Reader entry: UserMapper.class
+2020-05-13 16:48:44  [ main:80 ] - [ DEBUG ]  Reader entry: UserMapper.class
+2020-05-13 16:48:44  [ main:81 ] - [ DEBUG ]  Reader entry: UserMapper.xml
+2020-05-13 16:48:44  [ main:81 ] - [ DEBUG ]  Reader entry: UserMapper.xml
+2020-05-13 16:48:44  [ main:82 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:48:44  [ main:82 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:48:44  [ main:83 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:48:44  [ main:83 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:48:44  [ main:84 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:48:44  [ main:84 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:48:44  [ main:84 ] - [ DEBUG ]  Reader entry: ����   8    getAllUsers ()Ljava/util/List; 	Signature )()Ljava/util/List<Lcom/jason/pojo/User;>; getUserById (I)Lcom/jason/pojo/User; addUser (Lcom/jason/pojo/User;)I 	addUser_1 (Ljava/util/Map;)I 8(Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;)I 
+2020-05-13 16:48:44  [ main:84 ] - [ DEBUG ]  Reader entry: ����   8    getAllUsers ()Ljava/util/List; 	Signature )()Ljava/util/List<Lcom/jason/pojo/User;>; getUserById (I)Lcom/jason/pojo/User; addUser (Lcom/jason/pojo/User;)I 	addUser_1 (Ljava/util/Map;)I 8(Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;)I 
+2020-05-13 16:48:44  [ main:86 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:48:44  [ main:86 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:48:44  [ main:87 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:48:44  [ main:87 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:48:44  [ main:88 ] - [ DEBUG ]  Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2020-05-13 16:48:44  [ main:88 ] - [ DEBUG ]  Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2020-05-13 16:48:44  [ main:89 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapperTest matches criteria [is assignable to Object]
+2020-05-13 16:48:44  [ main:89 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapperTest matches criteria [is assignable to Object]
+2020-05-13 16:48:44  [ main:90 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-13 16:48:44  [ main:90 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-13 16:48:44  [ main:119 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:119 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:119 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:119 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:120 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:120 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:120 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:48:44  [ main:120 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:51  [ main:1 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:49:51  [ main:1 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:49:51  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:49:51  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:49:51  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 16:49:51  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 16:49:51  [ main:7 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 16:49:51  [ main:7 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 16:49:51  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 16:49:51  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 16:49:51  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 16:49:51  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 16:49:51  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 16:49:51  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 16:49:51  [ main:9 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:49:51  [ main:9 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:49:51  [ main:10 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:49:51  [ main:10 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:49:51  [ main:54 ] - [ DEBUG ]  Reader entry: UserMapperTest.class
+2020-05-13 16:49:51  [ main:54 ] - [ DEBUG ]  Reader entry: UserMapperTest.class
+2020-05-13 16:49:51  [ main:56 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:49:51  [ main:56 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao
+2020-05-13 16:49:51  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:49:51  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:49:51  [ main:57 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:49:51  [ main:57 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/test-classes/com/jason/dao/UserMapperTest.class
+2020-05-13 16:49:51  [ main:59 ] - [ DEBUG ]  Reader entry: ����   8 �
+2020-05-13 16:49:51  [ main:59 ] - [ DEBUG ]  Reader entry: ����   8 �
+2020-05-13 16:49:51  [ main:62 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:49:51  [ main:62 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:49:51  [ main:63 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:49:51  [ main:63 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:49:52  [ main:67 ] - [ DEBUG ]  Reader entry: UserMapper.class
+2020-05-13 16:49:52  [ main:67 ] - [ DEBUG ]  Reader entry: UserMapper.class
+2020-05-13 16:49:52  [ main:69 ] - [ DEBUG ]  Reader entry: UserMapper.xml
+2020-05-13 16:49:52  [ main:69 ] - [ DEBUG ]  Reader entry: UserMapper.xml
+2020-05-13 16:49:52  [ main:70 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:49:52  [ main:70 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao
+2020-05-13 16:49:52  [ main:71 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:49:52  [ main:71 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:49:52  [ main:72 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:49:52  [ main:72 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.class
+2020-05-13 16:49:52  [ main:73 ] - [ DEBUG ]  Reader entry: ����   8    getAllUsers ()Ljava/util/List; 	Signature )()Ljava/util/List<Lcom/jason/pojo/User;>; getUserById (I)Lcom/jason/pojo/User; addUser (Lcom/jason/pojo/User;)I 	addUser_1 (Ljava/util/Map;)I 8(Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;)I 
+2020-05-13 16:49:52  [ main:73 ] - [ DEBUG ]  Reader entry: ����   8    getAllUsers ()Ljava/util/List; 	Signature )()Ljava/util/List<Lcom/jason/pojo/User;>; getUserById (I)Lcom/jason/pojo/User; addUser (Lcom/jason/pojo/User;)I 	addUser_1 (Ljava/util/Map;)I 8(Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;)I 
+2020-05-13 16:49:52  [ main:75 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:49:52  [ main:75 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:49:52  [ main:76 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:49:52  [ main:76 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/dao/UserMapper.xml
+2020-05-13 16:49:52  [ main:78 ] - [ DEBUG ]  Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2020-05-13 16:49:52  [ main:78 ] - [ DEBUG ]  Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2020-05-13 16:49:52  [ main:79 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapperTest matches criteria [is assignable to Object]
+2020-05-13 16:49:52  [ main:79 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapperTest matches criteria [is assignable to Object]
+2020-05-13 16:49:52  [ main:80 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-13 16:49:52  [ main:80 ] - [ DEBUG ]  Checking to see if class com.jason.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-13 16:49:52  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:111 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:111 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:111 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:49:52  [ main:111 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:51:08  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:51:08  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:51:08  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 16:51:08  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 16:51:08  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 16:51:08  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 16:51:08  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 16:51:08  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 16:51:08  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 16:51:08  [ main:10 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 16:51:08  [ main:10 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 16:51:08  [ main:10 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 16:51:08  [ main:10 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 16:51:08  [ main:11 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 16:51:08  [ main:11 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 16:51:08  [ main:12 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 16:51:08  [ main:12 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 16:51:08  [ main:63 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 16:51:08  [ main:63 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 16:51:08  [ main:65 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 16:51:08  [ main:65 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 16:51:08  [ main:65 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 16:51:08  [ main:65 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 16:51:08  [ main:65 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 16:51:08  [ main:65 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 16:51:08  [ main:66 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 16:51:08  [ main:66 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 16:51:08  [ main:68 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 16:51:08  [ main:68 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 16:51:08  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:104 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:104 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:105 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:105 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:105 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:105 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 16:51:08  [ main:207 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:51:08  [ main:207 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 16:51:10  [ main:2540 ] - [ DEBUG ]  Created connection 1201454821.
+2020-05-13 16:51:10  [ main:2540 ] - [ DEBUG ]  Created connection 1201454821.
+2020-05-13 16:51:10  [ main:2540 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@479cbee5]
+2020-05-13 16:51:10  [ main:2540 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@479cbee5]
+2020-05-13 16:51:10  [ main:2546 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 16:51:10  [ main:2546 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 16:51:10  [ main:2583 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 16:51:10  [ main:2583 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 16:51:10  [ main:2615 ] - [ DEBUG ]  <==      Total: 4
+2020-05-13 16:51:10  [ main:2615 ] - [ DEBUG ]  <==      Total: 4
+2020-05-13 16:51:10  [ main:2628 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@479cbee5]
+2020-05-13 16:51:10  [ main:2628 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@479cbee5]
+2020-05-13 16:51:10  [ main:2629 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@479cbee5]
+2020-05-13 16:51:10  [ main:2629 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@479cbee5]
+2020-05-13 16:51:10  [ main:2630 ] - [ DEBUG ]  Returned connection 1201454821 to pool.
+2020-05-13 16:51:10  [ main:2630 ] - [ DEBUG ]  Returned connection 1201454821 to pool.
+2020-05-13 17:05:33  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:05:33  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:05:33  [ main:5 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:05:33  [ main:5 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:05:33  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:05:33  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:05:33  [ main:11 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:05:33  [ main:11 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:05:33  [ main:12 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:05:33  [ main:12 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:05:33  [ main:13 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:05:33  [ main:13 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:05:33  [ main:15 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:05:33  [ main:15 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:05:33  [ main:16 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:05:33  [ main:16 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:05:33  [ main:17 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:05:33  [ main:17 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:05:33  [ main:65 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:05:33  [ main:65 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:05:33  [ main:66 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:05:33  [ main:66 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:05:33  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:05:33  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:05:33  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:05:33  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:05:33  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:05:33  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:05:33  [ main:70 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:05:33  [ main:70 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:05:33  [ main:101 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:101 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:104 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:104 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:05:33  [ main:201 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:05:33  [ main:201 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:05:35  [ main:2227 ] - [ DEBUG ]  Created connection 1129944640.
+2020-05-13 17:05:35  [ main:2227 ] - [ DEBUG ]  Created connection 1129944640.
+2020-05-13 17:05:35  [ main:2228 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:05:35  [ main:2228 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:05:35  [ main:2231 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.uer where id = ? 
+2020-05-13 17:05:35  [ main:2231 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.uer where id = ? 
+2020-05-13 17:05:35  [ main:2266 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:05:35  [ main:2266 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:06:08  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:06:08  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:06:08  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:06:08  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:06:08  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:06:08  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:06:08  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:06:08  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:06:08  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:06:08  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:06:08  [ main:9 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:06:08  [ main:9 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:06:08  [ main:10 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:06:08  [ main:10 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:06:08  [ main:11 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:06:08  [ main:11 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:06:08  [ main:11 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:06:08  [ main:11 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:06:08  [ main:62 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:06:08  [ main:62 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:06:08  [ main:63 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:06:08  [ main:63 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:06:08  [ main:63 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:06:08  [ main:63 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:06:08  [ main:64 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:06:08  [ main:64 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:06:08  [ main:66 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:06:08  [ main:66 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:06:08  [ main:69 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:06:08  [ main:69 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:06:08  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:105 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:105 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:106 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:106 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:106 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:106 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:06:08  [ main:198 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:06:08  [ main:198 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:06:10  [ main:2366 ] - [ DEBUG ]  Created connection 1129944640.
+2020-05-13 17:06:10  [ main:2366 ] - [ DEBUG ]  Created connection 1129944640.
+2020-05-13 17:06:10  [ main:2367 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:06:10  [ main:2367 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:06:10  [ main:2372 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-13 17:06:10  [ main:2372 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-13 17:06:10  [ main:2425 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:06:10  [ main:2425 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:06:10  [ main:2473 ] - [ DEBUG ]  <==      Total: 1
+2020-05-13 17:06:10  [ main:2473 ] - [ DEBUG ]  <==      Total: 1
+2020-05-13 17:06:10  [ main:2490 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:06:10  [ main:2490 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:06:10  [ main:2493 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:06:10  [ main:2493 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43599640]
+2020-05-13 17:06:10  [ main:2494 ] - [ DEBUG ]  Returned connection 1129944640 to pool.
+2020-05-13 17:06:10  [ main:2494 ] - [ DEBUG ]  Returned connection 1129944640 to pool.
+2020-05-13 17:14:17  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:14:17  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:14:17  [ main:7 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:14:17  [ main:7 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:14:17  [ main:14 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:14:17  [ main:14 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:14:17  [ main:15 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:14:17  [ main:15 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:14:17  [ main:17 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:14:17  [ main:17 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:14:17  [ main:18 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:14:17  [ main:18 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:14:17  [ main:20 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:14:17  [ main:20 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:14:17  [ main:21 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:14:17  [ main:21 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:14:17  [ main:22 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:14:17  [ main:22 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:14:17  [ main:96 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:14:17  [ main:96 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:14:17  [ main:99 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:14:17  [ main:99 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:14:17  [ main:101 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:14:17  [ main:101 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:14:17  [ main:101 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:14:17  [ main:101 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:14:17  [ main:103 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:14:17  [ main:103 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:14:17  [ main:105 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:14:17  [ main:105 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:14:17  [ main:161 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:161 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:165 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:165 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:166 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:166 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:167 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:14:17  [ main:167 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:16  [ main:59171 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:15:16  [ main:59171 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:15:22  [ main:64660 ] - [ DEBUG ]  Created connection 24650043.
+2020-05-13 17:15:22  [ main:64660 ] - [ DEBUG ]  Created connection 24650043.
+2020-05-13 17:15:22  [ main:64663 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@178213b]
+2020-05-13 17:15:22  [ main:64663 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@178213b]
+2020-05-13 17:15:22  [ main:64687 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-13 17:15:22  [ main:64687 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-13 17:15:22  [ main:65163 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:15:22  [ main:65163 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:15:23  [ main:65590 ] - [ DEBUG ]  <==      Total: 1
+2020-05-13 17:15:23  [ main:65590 ] - [ DEBUG ]  <==      Total: 1
+2020-05-13 17:15:31  [ main:73901 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@178213b]
+2020-05-13 17:15:31  [ main:73901 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@178213b]
+2020-05-13 17:15:31  [ main:73908 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@178213b]
+2020-05-13 17:15:31  [ main:73908 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@178213b]
+2020-05-13 17:15:31  [ main:73911 ] - [ DEBUG ]  Returned connection 24650043 to pool.
+2020-05-13 17:15:31  [ main:73911 ] - [ DEBUG ]  Returned connection 24650043 to pool.
+2020-05-13 17:15:33  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:15:33  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:15:33  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:15:33  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 17:15:33  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:15:33  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 17:15:33  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:15:33  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 17:15:33  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:15:33  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 17:15:33  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:15:33  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 17:15:33  [ main:13 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:15:33  [ main:13 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 17:15:33  [ main:14 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:15:33  [ main:14 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:15:33  [ main:15 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:15:33  [ main:15 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:15:33  [ main:64 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:15:33  [ main:64 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 17:15:33  [ main:65 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:15:33  [ main:65 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 17:15:33  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:15:33  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:15:33  [ main:66 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:15:33  [ main:66 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 17:15:34  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:15:34  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 :
+2020-05-13 17:15:34  [ main:69 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:15:34  [ main:69 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 17:15:34  [ main:107 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:107 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:15:34  [ main:110 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 17:20:54  [ main:320285 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:20:54  [ main:320285 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 17:20:59  [ main:326015 ] - [ DEBUG ]  Created connection 1770070706.
+2020-05-13 17:20:59  [ main:326015 ] - [ DEBUG ]  Created connection 1770070706.
+2020-05-13 17:20:59  [ main:326019 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@698122b2]
+2020-05-13 17:20:59  [ main:326019 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@698122b2]
+2020-05-13 17:20:59  [ main:326043 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-13 17:20:59  [ main:326043 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-13 17:21:00  [ main:326593 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:21:00  [ main:326593 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-13 17:21:00  [ main:327023 ] - [ DEBUG ]  <==      Total: 1
+2020-05-13 17:21:00  [ main:327023 ] - [ DEBUG ]  <==      Total: 1
+2020-05-13 17:30:08  [ main:874915 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@698122b2]
+2020-05-13 17:30:08  [ main:874915 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@698122b2]
+2020-05-13 17:30:08  [ main:874921 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@698122b2]
+2020-05-13 17:30:08  [ main:874921 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@698122b2]
+2020-05-13 17:30:08  [ main:874923 ] - [ DEBUG ]  Returned connection 1770070706 to pool.
+2020-05-13 17:30:08  [ main:874923 ] - [ DEBUG ]  Returned connection 1770070706 to pool.
+2020-05-13 18:05:15  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 18:05:15  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 18:05:15  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 18:05:15  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 18:05:15  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 18:05:15  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 18:05:15  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 18:05:15  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 18:05:15  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 18:05:15  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 18:05:15  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 18:05:15  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 18:05:15  [ main:12 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 18:05:15  [ main:12 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 18:05:15  [ main:14 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 18:05:15  [ main:14 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 18:05:15  [ main:14 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 18:05:15  [ main:14 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 18:05:15  [ main:55 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 18:05:15  [ main:55 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 18:05:15  [ main:56 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 18:05:15  [ main:56 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 18:05:15  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 18:05:15  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 18:05:15  [ main:58 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 18:05:15  [ main:58 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 18:05:15  [ main:59 ] - [ DEBUG ]  Reader entry: ����   8 V	  7	  8	  9 :
+2020-05-13 18:05:15  [ main:59 ] - [ DEBUG ]  Reader entry: ����   8 V	  7	  8	  9 :
+2020-05-13 18:05:15  [ main:60 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 18:05:15  [ main:60 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 18:05:15  [ main:94 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:94 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:96 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:96 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:97 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:97 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:97 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:97 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 18:05:15  [ main:218 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 18:05:15  [ main:218 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 18:05:17  [ main:2567 ] - [ DEBUG ]  Created connection 997850486.
+2020-05-13 18:05:17  [ main:2567 ] - [ DEBUG ]  Created connection 997850486.
+2020-05-13 18:05:17  [ main:2568 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3b79fd76]
+2020-05-13 18:05:17  [ main:2568 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3b79fd76]
+2020-05-13 18:05:17  [ main:2575 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 18:05:17  [ main:2575 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user 
+2020-05-13 18:05:17  [ main:2621 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 18:05:17  [ main:2621 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 18:05:17  [ main:2654 ] - [ DEBUG ]  <==      Total: 4
+2020-05-13 18:05:17  [ main:2654 ] - [ DEBUG ]  <==      Total: 4
+2020-05-13 18:05:17  [ main:2665 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3b79fd76]
+2020-05-13 18:05:17  [ main:2665 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3b79fd76]
+2020-05-13 18:05:17  [ main:2666 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3b79fd76]
+2020-05-13 18:05:17  [ main:2666 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3b79fd76]
+2020-05-13 18:05:17  [ main:2667 ] - [ DEBUG ]  Returned connection 997850486 to pool.
+2020-05-13 18:05:17  [ main:2667 ] - [ DEBUG ]  Returned connection 997850486 to pool.
+2020-05-13 19:48:18  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:48:18  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:48:18  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:48:18  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:48:18  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:48:18  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:48:18  [ main:7 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:48:18  [ main:7 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:48:18  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:48:18  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:48:18  [ main:9 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:48:18  [ main:9 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:48:18  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:48:18  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:48:18  [ main:10 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:48:18  [ main:10 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:48:18  [ main:11 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:48:18  [ main:11 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:48:18  [ main:56 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:48:18  [ main:56 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:48:18  [ main:57 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:48:18  [ main:57 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:48:18  [ main:58 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:48:18  [ main:58 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:48:18  [ main:59 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:48:18  [ main:59 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:48:18  [ main:59 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:48:18  [ main:59 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:48:18  [ main:60 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:48:18  [ main:60 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:48:18  [ main:61 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:48:18  [ main:61 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:48:18  [ main:65 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:48:18  [ main:65 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:48:18  [ main:65 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:48:18  [ main:65 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:48:18  [ main:66 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:48:18  [ main:66 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:48:18  [ main:68 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:48:18  [ main:68 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:48:18  [ main:68 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:48:18  [ main:68 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:48:18  [ main:69 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:48:18  [ main:69 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:48:18  [ main:71 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:48:18  [ main:71 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:48:18  [ main:72 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:48:18  [ main:72 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:48:18  [ main:73 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:48:18  [ main:73 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:48:18  [ main:101 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:101 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:101 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:101 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:48:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:50:30  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:50:30  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:50:30  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:50:30  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:50:30  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:50:30  [ main:6 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:50:30  [ main:6 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:50:30  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:50:30  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:50:30  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:50:30  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:50:30  [ main:8 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:50:30  [ main:8 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:50:30  [ main:9 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:50:30  [ main:9 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:50:30  [ main:10 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:50:30  [ main:10 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:50:30  [ main:45 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:50:30  [ main:45 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:50:30  [ main:47 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:50:30  [ main:47 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:50:30  [ main:48 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:50:30  [ main:48 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:50:30  [ main:49 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:50:30  [ main:49 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:50:30  [ main:50 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:50:30  [ main:50 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:50:30  [ main:50 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:50:30  [ main:50 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:50:30  [ main:52 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:50:30  [ main:52 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:50:30  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:50:30  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:50:30  [ main:57 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:50:30  [ main:57 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:50:30  [ main:58 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:50:30  [ main:58 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:50:30  [ main:59 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:50:30  [ main:59 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:50:30  [ main:60 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:50:30  [ main:60 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:50:30  [ main:61 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:50:30  [ main:61 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:50:30  [ main:62 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:50:30  [ main:62 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:50:30  [ main:64 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:50:30  [ main:64 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:50:30  [ main:64 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:50:30  [ main:64 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:50:30  [ main:90 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:90 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:30  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:50:31  [ main:196 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 19:50:31  [ main:196 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 19:50:33  [ main:2232 ] - [ DEBUG ]  Created connection 1884155890.
+2020-05-13 19:50:33  [ main:2232 ] - [ DEBUG ]  Created connection 1884155890.
+2020-05-13 19:50:33  [ main:2233 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:50:33  [ main:2233 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:50:33  [ main:2238 ] - [ DEBUG ]  ==>  Preparing: select * from mybstis.student; 
+2020-05-13 19:50:33  [ main:2238 ] - [ DEBUG ]  ==>  Preparing: select * from mybstis.student; 
+2020-05-13 19:50:33  [ main:2271 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 19:50:33  [ main:2271 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 19:51:02  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:02  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:02  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:02  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:02  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:51:02  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:51:02  [ main:6 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:51:02  [ main:6 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:51:02  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:51:02  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:51:02  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:51:02  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:51:02  [ main:8 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:51:02  [ main:8 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:51:02  [ main:9 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:02  [ main:9 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:02  [ main:9 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:02  [ main:9 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:02  [ main:44 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:51:02  [ main:44 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:51:02  [ main:46 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:51:02  [ main:46 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:51:02  [ main:46 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:51:02  [ main:46 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:51:02  [ main:47 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:02  [ main:47 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:02  [ main:48 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:02  [ main:48 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:02  [ main:48 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:02  [ main:48 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:02  [ main:50 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:51:02  [ main:50 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:51:02  [ main:53 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:02  [ main:53 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:02  [ main:54 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:02  [ main:54 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:02  [ main:55 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:51:02  [ main:55 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:51:02  [ main:56 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:02  [ main:56 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:02  [ main:57 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:02  [ main:57 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:02  [ main:58 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:51:02  [ main:58 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:51:02  [ main:60 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:51:02  [ main:60 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:51:02  [ main:61 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:51:02  [ main:61 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:51:02  [ main:62 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:51:02  [ main:62 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:51:02  [ main:90 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:90 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:91 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:92 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:92 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:02  [ main:188 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 19:51:02  [ main:188 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 19:51:04  [ main:2306 ] - [ DEBUG ]  Created connection 69329761.
+2020-05-13 19:51:04  [ main:2306 ] - [ DEBUG ]  Created connection 69329761.
+2020-05-13 19:51:04  [ main:2307 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@421e361]
+2020-05-13 19:51:04  [ main:2307 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@421e361]
+2020-05-13 19:51:04  [ main:2311 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.student; 
+2020-05-13 19:51:04  [ main:2311 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.student; 
+2020-05-13 19:51:04  [ main:2341 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 19:51:04  [ main:2341 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 19:51:04  [ main:2362 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:04  [ main:2362 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:04  [ main:2363 ] - [ DEBUG ]  ====> Parameters: 100(Integer)
+2020-05-13 19:51:04  [ main:2363 ] - [ DEBUG ]  ====> Parameters: 100(Integer)
+2020-05-13 19:51:04  [ main:2366 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:04  [ main:2366 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:04  [ main:2367 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:04  [ main:2367 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:04  [ main:2368 ] - [ DEBUG ]  ====> Parameters: 101(Integer)
+2020-05-13 19:51:04  [ main:2368 ] - [ DEBUG ]  ====> Parameters: 101(Integer)
+2020-05-13 19:51:04  [ main:2369 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:04  [ main:2369 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:04  [ main:2370 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 19:51:04  [ main:2370 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 19:51:04  [ main:2371 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@421e361]
+2020-05-13 19:51:04  [ main:2371 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@421e361]
+2020-05-13 19:51:04  [ main:2371 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@421e361]
+2020-05-13 19:51:04  [ main:2371 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@421e361]
+2020-05-13 19:51:04  [ main:2372 ] - [ DEBUG ]  Returned connection 69329761 to pool.
+2020-05-13 19:51:04  [ main:2372 ] - [ DEBUG ]  Returned connection 69329761 to pool.
+2020-05-13 19:51:52  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:52  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:52  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:52  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 19:51:52  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:51:52  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 19:51:52  [ main:9 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:51:52  [ main:9 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 19:51:52  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:51:52  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 19:51:52  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:51:52  [ main:11 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 19:51:52  [ main:12 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:51:52  [ main:12 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 19:51:52  [ main:13 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:52  [ main:13 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:52  [ main:13 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:52  [ main:13 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:52  [ main:62 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:51:52  [ main:62 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 19:51:52  [ main:64 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:51:52  [ main:64 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 19:51:52  [ main:65 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:51:52  [ main:65 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 19:51:52  [ main:66 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:52  [ main:66 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 19:51:52  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:52  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:52  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:52  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 19:51:52  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:51:52  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 19:51:52  [ main:72 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:52  [ main:72 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:52  [ main:73 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:52  [ main:73 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 19:51:52  [ main:74 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:51:52  [ main:74 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 19:51:52  [ main:76 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:52  [ main:76 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:52  [ main:76 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:52  [ main:76 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 19:51:52  [ main:76 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:51:52  [ main:76 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 19:51:52  [ main:77 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:51:52  [ main:77 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 19:51:52  [ main:79 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:51:52  [ main:79 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 19:51:52  [ main:80 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:51:52  [ main:80 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 19:51:52  [ main:114 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:114 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:115 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:115 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 19:51:52  [ main:222 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 19:51:52  [ main:222 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 19:51:54  [ main:2207 ] - [ DEBUG ]  Created connection 1884155890.
+2020-05-13 19:51:54  [ main:2207 ] - [ DEBUG ]  Created connection 1884155890.
+2020-05-13 19:51:54  [ main:2208 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:51:54  [ main:2208 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:51:54  [ main:2213 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.student; 
+2020-05-13 19:51:54  [ main:2213 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.student; 
+2020-05-13 19:51:54  [ main:2247 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 19:51:54  [ main:2247 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 19:51:54  [ main:2274 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:54  [ main:2274 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:54  [ main:2275 ] - [ DEBUG ]  ====> Parameters: 100(Integer)
+2020-05-13 19:51:54  [ main:2275 ] - [ DEBUG ]  ====> Parameters: 100(Integer)
+2020-05-13 19:51:54  [ main:2278 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:54  [ main:2278 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:54  [ main:2279 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:54  [ main:2279 ] - [ DEBUG ]  ====>  Preparing: select * from mybatis.teacher where id = ?; 
+2020-05-13 19:51:54  [ main:2279 ] - [ DEBUG ]  ====> Parameters: 101(Integer)
+2020-05-13 19:51:54  [ main:2279 ] - [ DEBUG ]  ====> Parameters: 101(Integer)
+2020-05-13 19:51:54  [ main:2281 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:54  [ main:2281 ] - [ DEBUG ]  <====      Total: 1
+2020-05-13 19:51:54  [ main:2281 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 19:51:54  [ main:2281 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 19:51:54  [ main:2295 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:51:54  [ main:2295 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:51:54  [ main:2296 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:51:54  [ main:2296 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@704deff2]
+2020-05-13 19:51:54  [ main:2297 ] - [ DEBUG ]  Returned connection 1884155890 to pool.
+2020-05-13 19:51:54  [ main:2297 ] - [ DEBUG ]  Returned connection 1884155890 to pool.
+2020-05-13 20:04:17  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:04:17  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:04:17  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:04:17  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:04:17  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 20:04:17  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 20:04:17  [ main:6 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 20:04:17  [ main:6 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 20:04:17  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 20:04:17  [ main:7 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 20:04:17  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 20:04:17  [ main:8 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 20:04:17  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 20:04:17  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 20:04:17  [ main:10 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:04:17  [ main:10 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:04:17  [ main:10 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:04:17  [ main:10 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:04:17  [ main:66 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 20:04:17  [ main:66 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 20:04:17  [ main:68 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 20:04:17  [ main:68 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 20:04:17  [ main:69 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 20:04:17  [ main:69 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 20:04:17  [ main:70 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:04:17  [ main:70 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:04:17  [ main:71 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:04:17  [ main:71 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:04:17  [ main:72 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:04:17  [ main:72 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:04:17  [ main:74 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 20:04:17  [ main:74 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 20:04:17  [ main:81 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:04:17  [ main:81 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:04:17  [ main:83 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:04:17  [ main:83 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:04:17  [ main:84 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 20:04:17  [ main:84 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 20:04:17  [ main:86 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:04:17  [ main:86 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:04:17  [ main:86 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:04:17  [ main:86 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:04:17  [ main:88 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 20:04:17  [ main:88 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 20:04:17  [ main:91 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 20:04:17  [ main:91 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 20:04:17  [ main:94 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 20:04:17  [ main:94 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 20:04:17  [ main:97 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 20:04:17  [ main:97 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 20:04:17  [ main:138 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:138 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:139 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:139 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:139 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:139 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:139 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:04:17  [ main:139 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:05:18  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:05:18  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:05:18  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:05:18  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 20:05:18  [ main:6 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 20:05:18  [ main:7 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 20:05:18  [ main:7 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 20:05:18  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 20:05:18  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 20:05:18  [ main:9 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 20:05:18  [ main:9 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 20:05:18  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 20:05:18  [ main:9 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 20:05:18  [ main:10 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:05:18  [ main:10 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:05:18  [ main:11 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:05:18  [ main:11 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:05:18  [ main:52 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 20:05:18  [ main:52 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 20:05:18  [ main:53 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 20:05:18  [ main:53 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 20:05:18  [ main:54 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 20:05:18  [ main:54 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 20:05:18  [ main:56 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:05:18  [ main:56 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:05:18  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:05:18  [ main:57 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:05:18  [ main:58 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:05:18  [ main:58 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:05:18  [ main:59 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 20:05:18  [ main:59 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 20:05:18  [ main:62 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:05:18  [ main:62 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:05:18  [ main:63 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:05:18  [ main:63 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:05:18  [ main:64 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 20:05:18  [ main:64 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 20:05:18  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:05:18  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:05:18  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:05:18  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:05:18  [ main:69 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 20:05:18  [ main:69 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 20:05:18  [ main:70 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 20:05:18  [ main:70 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 20:05:18  [ main:72 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 20:05:18  [ main:72 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 20:05:18  [ main:73 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 20:05:18  [ main:73 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 20:05:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:102 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:103 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:05:18  [ main:230 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 20:05:18  [ main:230 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 20:05:20  [ main:2242 ] - [ DEBUG ]  Created connection 932582590.
+2020-05-13 20:05:20  [ main:2242 ] - [ DEBUG ]  Created connection 932582590.
+2020-05-13 20:05:20  [ main:2243 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:05:20  [ main:2243 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:05:20  [ main:2247 ] - [ DEBUG ]  ==>  Preparing: select s.id sid,s.name sname,t.name tname from mybatis.student s,mybatis.teacher t where s.id = t.id; 
+2020-05-13 20:05:20  [ main:2247 ] - [ DEBUG ]  ==>  Preparing: select s.id sid,s.name sname,t.name tname from mybatis.student s,mybatis.teacher t where s.id = t.id; 
+2020-05-13 20:05:20  [ main:2277 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 20:05:20  [ main:2277 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 20:05:20  [ main:2304 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 20:05:20  [ main:2304 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 20:05:20  [ main:2322 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:05:20  [ main:2322 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:05:20  [ main:2323 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:05:20  [ main:2323 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:05:20  [ main:2324 ] - [ DEBUG ]  Returned connection 932582590 to pool.
+2020-05-13 20:05:20  [ main:2324 ] - [ DEBUG ]  Returned connection 932582590 to pool.
+2020-05-13 20:06:13  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:06:13  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:06:13  [ main:5 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:06:13  [ main:5 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-13 20:06:13  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 20:06:13  [ main:8 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-13 20:06:13  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 20:06:13  [ main:8 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-13 20:06:13  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 20:06:13  [ main:9 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-13 20:06:13  [ main:10 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 20:06:13  [ main:10 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-13 20:06:13  [ main:11 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 20:06:13  [ main:11 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-13 20:06:13  [ main:12 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:06:13  [ main:12 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:06:13  [ main:13 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:06:13  [ main:13 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:06:13  [ main:62 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 20:06:13  [ main:62 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-13 20:06:13  [ main:64 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 20:06:13  [ main:64 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-13 20:06:13  [ main:64 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 20:06:13  [ main:64 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-13 20:06:13  [ main:65 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:06:13  [ main:65 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-13 20:06:13  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:06:13  [ main:66 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:06:13  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:06:13  [ main:67 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-13 20:06:13  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 20:06:13  [ main:68 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-13 20:06:13  [ main:72 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:06:13  [ main:72 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:06:13  [ main:73 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:06:13  [ main:73 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-13 20:06:13  [ main:74 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 20:06:13  [ main:74 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-13 20:06:13  [ main:76 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:06:13  [ main:76 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:06:13  [ main:76 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:06:13  [ main:76 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-13 20:06:13  [ main:78 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 20:06:13  [ main:78 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-13 20:06:13  [ main:79 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 20:06:13  [ main:79 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-13 20:06:13  [ main:81 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 20:06:13  [ main:81 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-13 20:06:13  [ main:82 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 20:06:13  [ main:82 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-13 20:06:13  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:116 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:117 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:117 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:118 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:118 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-13 20:06:13  [ main:260 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 20:06:13  [ main:260 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-13 20:06:15  [ main:2281 ] - [ DEBUG ]  Created connection 932582590.
+2020-05-13 20:06:15  [ main:2281 ] - [ DEBUG ]  Created connection 932582590.
+2020-05-13 20:06:15  [ main:2282 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:06:15  [ main:2282 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:06:15  [ main:2287 ] - [ DEBUG ]  ==>  Preparing: select s.id sid,s.name sname,t.name tname, t.id tid from mybatis.student s,mybatis.teacher t where s.id = t.id; 
+2020-05-13 20:06:15  [ main:2287 ] - [ DEBUG ]  ==>  Preparing: select s.id sid,s.name sname,t.name tname, t.id tid from mybatis.student s,mybatis.teacher t where s.id = t.id; 
+2020-05-13 20:06:15  [ main:2323 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 20:06:15  [ main:2323 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-13 20:06:15  [ main:2343 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 20:06:15  [ main:2343 ] - [ DEBUG ]  <==      Total: 2
+2020-05-13 20:06:15  [ main:2356 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:06:15  [ main:2356 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:06:15  [ main:2357 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:06:15  [ main:2357 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-13 20:06:15  [ main:2358 ] - [ DEBUG ]  Returned connection 932582590 to pool.
+2020-05-13 20:06:15  [ main:2358 ] - [ DEBUG ]  Returned connection 932582590 to pool.
+2020-05-17 17:57:49  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-17 17:57:49  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-17 17:57:49  [ main:6 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-17 17:57:49  [ main:6 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-17 17:57:49  [ main:12 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-17 17:57:49  [ main:12 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-17 17:57:49  [ main:13 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-17 17:57:49  [ main:13 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-17 17:57:49  [ main:14 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-17 17:57:49  [ main:14 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-17 17:57:49  [ main:17 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-17 17:57:49  [ main:17 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-17 17:57:49  [ main:18 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-17 17:57:49  [ main:18 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-17 17:57:49  [ main:19 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-17 17:57:49  [ main:19 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-17 17:57:49  [ main:21 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-17 17:57:49  [ main:21 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-17 17:57:49  [ main:118 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-17 17:57:49  [ main:118 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-17 17:57:49  [ main:120 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-17 17:57:49  [ main:120 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-17 17:57:49  [ main:121 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-17 17:57:49  [ main:121 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-17 17:57:49  [ main:122 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-17 17:57:49  [ main:122 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-17 17:57:49  [ main:122 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-17 17:57:49  [ main:122 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-17 17:57:49  [ main:123 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-17 17:57:49  [ main:123 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-17 17:57:49  [ main:126 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-17 17:57:49  [ main:126 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-17 17:57:49  [ main:130 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-17 17:57:49  [ main:130 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-17 17:57:49  [ main:130 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-17 17:57:49  [ main:130 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-17 17:57:49  [ main:134 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-17 17:57:49  [ main:134 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-17 17:57:49  [ main:136 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-17 17:57:49  [ main:136 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-17 17:57:49  [ main:137 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-17 17:57:49  [ main:137 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-17 17:57:49  [ main:142 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-17 17:57:49  [ main:142 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-17 17:57:49  [ main:144 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-17 17:57:49  [ main:144 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-17 17:57:49  [ main:146 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-17 17:57:49  [ main:146 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-17 17:57:49  [ main:147 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-17 17:57:49  [ main:147 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-17 17:57:50  [ main:217 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:217 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:219 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:219 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:220 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:220 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:220 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:220 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-17 17:57:50  [ main:435 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-17 17:57:50  [ main:435 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-17 17:57:54  [ main:4283 ] - [ DEBUG ]  Created connection 932582590.
+2020-05-17 17:57:54  [ main:4283 ] - [ DEBUG ]  Created connection 932582590.
+2020-05-17 17:57:54  [ main:4284 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-17 17:57:54  [ main:4284 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-17 17:57:54  [ main:4293 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-17 17:57:54  [ main:4293 ] - [ DEBUG ]  ==>  Preparing: select * from mybatis.user where id = ? 
+2020-05-17 17:57:54  [ main:4349 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-17 17:57:54  [ main:4349 ] - [ DEBUG ]  ==> Parameters: 101(Integer)
+2020-05-17 17:57:54  [ main:4388 ] - [ DEBUG ]  <==      Total: 1
+2020-05-17 17:57:54  [ main:4388 ] - [ DEBUG ]  <==      Total: 1
+2020-05-17 17:57:54  [ main:4413 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-17 17:57:54  [ main:4413 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-17 17:57:54  [ main:4415 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-17 17:57:54  [ main:4415 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@379614be]
+2020-05-17 17:57:54  [ main:4416 ] - [ DEBUG ]  Returned connection 932582590 to pool.
+2020-05-17 17:57:54  [ main:4416 ] - [ DEBUG ]  Returned connection 932582590 to pool.
+2020-05-26 17:04:31  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-26 17:04:31  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-26 17:04:31  [ main:6 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-26 17:04:31  [ main:6 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-26 17:04:31  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-26 17:04:31  [ main:10 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VFS
+2020-05-26 17:04:31  [ main:11 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-26 17:04:31  [ main:11 ] - [ DEBUG ]  JBoss 6 VFS API is not available in this environment.
+2020-05-26 17:04:31  [ main:12 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-26 17:04:31  [ main:12 ] - [ DEBUG ]  Class not found: org.jboss.vfs.VirtualFile
+2020-05-26 17:04:31  [ main:13 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-26 17:04:31  [ main:13 ] - [ DEBUG ]  VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-26 17:04:31  [ main:14 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-26 17:04:31  [ main:14 ] - [ DEBUG ]  Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-26 17:04:31  [ main:16 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-26 17:04:31  [ main:16 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-26 17:04:31  [ main:16 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-26 17:04:31  [ main:16 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-26 17:04:31  [ main:78 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-26 17:04:31  [ main:78 ] - [ DEBUG ]  Reader entry: Student.class
+2020-05-26 17:04:31  [ main:80 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-26 17:04:31  [ main:80 ] - [ DEBUG ]  Reader entry: Teacher.class
+2020-05-26 17:04:31  [ main:82 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-26 17:04:31  [ main:82 ] - [ DEBUG ]  Reader entry: User.class
+2020-05-26 17:04:31  [ main:83 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-26 17:04:31  [ main:83 ] - [ DEBUG ]  Listing file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo
+2020-05-26 17:04:31  [ main:85 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-26 17:04:31  [ main:85 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-26 17:04:31  [ main:86 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-26 17:04:31  [ main:86 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Student.class
+2020-05-26 17:04:31  [ main:88 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-26 17:04:31  [ main:88 ] - [ DEBUG ]  Reader entry: ����   8 Y	  ;	  <	  = >
+2020-05-26 17:04:31  [ main:92 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-26 17:04:31  [ main:92 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-26 17:04:31  [ main:93 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-26 17:04:31  [ main:93 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/Teacher.class
+2020-05-26 17:04:31  [ main:95 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-26 17:04:31  [ main:95 ] - [ DEBUG ]  Reader entry: ����   8 L	  0	  1 2
+2020-05-26 17:04:31  [ main:98 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-26 17:04:31  [ main:98 ] - [ DEBUG ]  Find JAR URL: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-26 17:04:31  [ main:98 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-26 17:04:31  [ main:98 ] - [ DEBUG ]  Not a JAR: file:/F:/EEworkspace/mybatisProject/mybatis-02/target/classes/com/jason/pojo/User.class
+2020-05-26 17:04:31  [ main:100 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-26 17:04:31  [ main:100 ] - [ DEBUG ]  Reader entry: ����   8 V	  8	  9	  : ;
+2020-05-26 17:04:31  [ main:102 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-26 17:04:31  [ main:102 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Student matches criteria [is assignable to Object]
+2020-05-26 17:04:31  [ main:104 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-26 17:04:31  [ main:104 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.Teacher matches criteria [is assignable to Object]
+2020-05-26 17:04:31  [ main:106 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-26 17:04:31  [ main:106 ] - [ DEBUG ]  Checking to see if class com.jason.pojo.User matches criteria [is assignable to Object]
+2020-05-26 17:04:31  [ main:157 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:157 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:158 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:158 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:159 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:159 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:160 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:160 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-26 17:04:31  [ main:359 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-26 17:04:31  [ main:359 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-26 17:04:38  [ main:7763 ] - [ DEBUG ]  Created connection 1078705341.
+2020-05-26 17:04:38  [ main:7763 ] - [ DEBUG ]  Created connection 1078705341.
+2020-05-26 17:04:38  [ main:7764 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@404bbcbd]
+2020-05-26 17:04:38  [ main:7764 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@404bbcbd]
+2020-05-26 17:04:38  [ main:7768 ] - [ DEBUG ]  ==>  Preparing: select s.id sid,s.name sname,t.name tname, t.id tid from mybatis.student s,mybatis.teacher t where s.id = t.id; 
+2020-05-26 17:04:38  [ main:7768 ] - [ DEBUG ]  ==>  Preparing: select s.id sid,s.name sname,t.name tname, t.id tid from mybatis.student s,mybatis.teacher t where s.id = t.id; 
+2020-05-26 17:04:38  [ main:7808 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-26 17:04:38  [ main:7808 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-26 17:04:39  [ main:7852 ] - [ DEBUG ]  <==      Total: 2
+2020-05-26 17:04:39  [ main:7852 ] - [ DEBUG ]  <==      Total: 2
+2020-05-26 17:04:39  [ main:7873 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@404bbcbd]
+2020-05-26 17:04:39  [ main:7873 ] - [ DEBUG ]  Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@404bbcbd]
+2020-05-26 17:04:39  [ main:7874 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@404bbcbd]
+2020-05-26 17:04:39  [ main:7874 ] - [ DEBUG ]  Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@404bbcbd]
+2020-05-26 17:04:39  [ main:7875 ] - [ DEBUG ]  Returned connection 1078705341 to pool.
+2020-05-26 17:04:39  [ main:7875 ] - [ DEBUG ]  Returned connection 1078705341 to pool.

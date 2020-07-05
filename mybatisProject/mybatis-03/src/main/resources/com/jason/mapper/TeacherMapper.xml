@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jason.mapper.TeacherMapper">
+<!--    获得老师的基本信息,不带学生列表   -->
+    <select id="getTeacher" resultType="com.jason.pojo.Teacher" parameterType="int">
+        SELECT * FROM teacher WHERE id = #{tid};
+    </select>
+
+<!--    获得老师的信息以及所教的学生的集合列表    -->
+    <select id="getTeacherWithStu" parameterType="int" resultMap="TeacherStudent">
+        SELECT s.id s_id,s.name s_name , t.name t_name , t.id t_id
+        FROM student s,teacher t
+        WHERE s.tid = #{tid} AND t.id = #{tid};
+    </select>
+    <resultMap id="TeacherStudent" type="com.jason.pojo.Teacher">
+        <result property="id" column="t_id"/>
+        <result property="name" column="t_name"/>
+        <collection property="students" javaType="ArrayList" ofType="Student" column="Teacher">
+            <result property="id" column="s_id"/>
+            <result property="name" column="s_name"/>
+            <association property="teacher" javaType="Teacher">
+                <result property="id" column="t_id"/>
+                <result property="name" column="t_name"/>
+            </association>
+        </collection>
+    </resultMap>
+</mapper>
